@@ -15,3 +15,4 @@ albumentations
 # to be compatible with albumentations
 albucore
 packaging
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
